@@ -1,12 +1,10 @@
+> 由于github上能够直接运行ipynb文件，遂自己创了个库，方便自己的查看学习，只是个搬运工，此外再提供一个观看的渠道：[nbviewer](https://nbviewer.org/) 将本网站输入即可查看
+
 # PMMAA
 
 《Python 数学建模算法与应用》知识点与代码，按章节整理
 
 基于书籍内容完成，内容清晰，代码可运行，欢迎 Star
-
-## 使用说明
-
-在[项目主页](https://github.com/Ice-W0lf/PMMAA)点击 `Code/Download ZIP` 以下载完整的笔记与代码文件
 
 ## 环境条件
 
@@ -22,14 +20,6 @@
 ## 构建方法
 
 * [Jupyter Notebook](http://jupyter.org/) - 一个交互式的 Python 运行环境，适用于数据处理与科学计算
-
-## 作者
-
-* **hacheyz** - 完成了笔记的全部内容 - [Github 主页](https://github.com/hacheyz) 
-
-## 许可证
-
-此项目根据 [GPL-3.0 license](https://github.com/Ice-W0lf/PMMAA/blob/main/LICENSE) - 查看 [LICENSE.md](https://github.com/Ice-W0lf/PMMAA/blob/main/LICENSE) 以获取更多细节
 
 ## 关于本书
 
