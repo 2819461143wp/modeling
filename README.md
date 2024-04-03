@@ -1,4 +1,5 @@
-> 由于github上能够直接运行ipynb文件，遂自己创了个库，方便自己的查看学习，只是个搬运工，此外再提供一个观看的渠道：[nbviewer](https://nbviewer.org/) 将本网站输入即可查看
+> 由于Github上能够直接运行ipynb文件，遂自己创了个库，方便自己的查看学习，只是个搬运工，此外再提供一个观看的渠道：[nbviewer](https://nbviewer.org/) 将本网站输入即可查看
+> 原资源指向https://github.com/Ice-W0lf/PMMAA 
 
 # PMMAA
 
